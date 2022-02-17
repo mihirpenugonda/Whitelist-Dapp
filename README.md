@@ -9,5 +9,5 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-this project is part of the sophomore track at [https://www.learnweb3.io].
+this project is part of the sophomore track at [https://www.learnweb3.io](https://www.learnweb3.io).
 the whitelist dapp is used to give whitelist access to a particular amount of individuals using solidity smart contracts with reactjs
